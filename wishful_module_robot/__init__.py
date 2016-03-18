@@ -1,1 +1,1 @@
-from robot_module import *
+from .robot_module import *
